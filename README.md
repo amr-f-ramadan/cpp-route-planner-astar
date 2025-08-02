@@ -2,6 +2,8 @@
 
 A C++ implementation of the A* search algorithm for route planning on OpenStreetMap data, developed as part of the Udacity C++ Nanodegree program.
 
+**This Project was first submitted on August 5, 2021. Later on, it went through some enhancements that are listed below.**
+
 <img src="map.png" width="600" height="450" />
 
 ## Project Overview
